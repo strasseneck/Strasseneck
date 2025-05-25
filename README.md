@@ -4,6 +4,4 @@ Hi I'm Joe,
 
 I write code and screenplays. Writing for people first, machines second.
 
-## Currently Learning
 
-Go and how to live in the terminal.
