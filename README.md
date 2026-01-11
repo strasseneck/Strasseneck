@@ -5,3 +5,4 @@ Hi I'm Joe,
 I write code and screenplays. Writing for people first, machines second.
 
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=strasseneck)](https://github.com/anuraghazra/github-readme-stats)
